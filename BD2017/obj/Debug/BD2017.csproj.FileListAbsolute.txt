@@ -1,0 +1,21 @@
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\bin\Debug\BD2017.exe.config
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\bin\Debug\BD2017.exe
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\bin\Debug\BD2017.pdb
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\BD2017.csprojResolveAssemblyReference.cache
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\App.g.cs
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\BD2017_MarkupCompile.cache
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\BD2017_MarkupCompile.lref
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\BD2017.g.resources
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\BD2017.Properties.Resources.resources
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\BD2017.csproj.GenerateResource.Cache
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\BD2017.exe
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\BD2017.pdb
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\Register.g.cs
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\Register.baml
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\MainWindow.g.cs
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\MainWindow.baml
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\MainView.g.cs
+C:\Users\gonccalo\Google Drive\Lilith\Univ\BD\BD2017\BD2017\obj\Debug\MainView.baml
+D:\BD2017\BD2017\BD2017\bin\Debug\BD2017.exe.config
+D:\BD2017\BD2017\BD2017\obj\Debug\BD2017.exe
+D:\BD2017\BD2017\BD2017\obj\Debug\BD2017.pdb

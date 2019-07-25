@@ -1,2 +1,2 @@
-# databases
-Project for Data Bases Course.
+# GameMasters
+Project for Database Course.

@@ -1,0 +1,39 @@
+﻿<Window x:Name="___No_Name_" x:Class="BD2017.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BD2017"
+        mc:Ignorable="d"
+        Title="MainView" Height="371.691" Width="453.309">
+    <Grid>
+        <TabControl x:Name="tabControl">
+            <TabItem Header="My Games">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid x:Name="dataGrid" Margin="10"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Shop">
+                <Grid Background="#FFE5E5E5">
+                    <Button x:Name="button" Content="Search" HorizontalAlignment="Left" Margin="178,10,0,0" VerticalAlignment="Top" Width="76" Height="23"/>
+                    <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="163"/>
+                    <Grid Margin="269,15,10,0" Height="15" VerticalAlignment="Top">
+                        <CheckBox x:Name="checkBox" Content="Game" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+                        <CheckBox x:Name="checkBox_Copy" Content="Hardware" HorizontalAlignment="Left" Margin="89,0,0,0" VerticalAlignment="Top"/>
+                    </Grid>
+                    <DataGrid x:Name="dataGrid1" Margin="10,69,10,10"/>
+                    <Label x:Name="label" Content="Search Results :" HorizontalAlignment="Left" Margin="10,38,0,0" VerticalAlignment="Top" Width="163" FontSize="15" Height="26"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Community">
+                <Grid Background="#FFE5E5E5">
+                    <DataGrid x:Name="dataGrid2" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="261" Width="419"/>
+                    <Button x:Name="button1" Content="Search for User" HorizontalAlignment="Left" Margin="10,276,0,0" VerticalAlignment="Top" Width="109" Height="29"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Profile">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

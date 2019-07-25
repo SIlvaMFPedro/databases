@@ -1,0 +1,21 @@
+﻿<Window x:Class="BD2017.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BD2017"
+        mc:Ignorable="d"
+        Title="Login" Height="208.667" Width="328.333" ResizeMode="NoResize">
+    <Grid Margin="0,0,0,-1">
+        <Grid Margin="50,121,50,0">
+            <Button x:Name="button" Content="Login" RenderTransformOrigin="0.911,6.7" Margin="0,5,145,9" Height="25" Click="button_Click"/>
+            <Button x:Name="button1" Content="Register" Margin="145,5,0,9" Height="25" Click="button1_Click"/>
+        </Grid>
+        <Grid Margin="50,20,50,51">
+            <TextBox x:Name="usern" TextWrapping="Wrap" Text="Username" Margin="0,0,0,46" Height="25"/>
+            <PasswordBox x:Name="passwordBox" RenderTransformOrigin="0.286,1.232" ToolTip="Password" Margin="0,46,0,0" Height="25"/>
+
+        </Grid>
+
+    </Grid>
+</Window>
